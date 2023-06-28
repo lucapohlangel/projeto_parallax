@@ -69,7 +69,7 @@ p.transparente{
     padding: 5px;
     text-align: left;
     background-color: rgba(0, 0, 0, 0.267);
-    margin-left: 5vw;
+    margin-left: 0px;
     color: white;
 }
 
@@ -79,6 +79,7 @@ section#imagem1{
     background-repeat: no-repeat;
     background-attachment: fixed;
     padding: 50px;
+    padding-left: 2.5vw;
 }
 section#imagem2{
     background-image: url(imagens/background002.jpg);
